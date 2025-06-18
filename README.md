@@ -38,7 +38,7 @@ Identificar factores de riesgo y patrones comunes asociados a transacciones frau
 
 Encontrá la descripción completa del proyecto, hipótesis, alcance, medidas calculadas y más en el siguiente PDF:
 
-📥 [`Fraude_Financiero_Luis_Arbio.pdf`](docs/Fraude_Financiero_Luis_Arbio.pdf)
+📥 [`Fraude_Financiero_Luis_Arbio.pdf`](docs/Fraude_Financiero_Luis_Arbio(1).pdf)
 
 ---
 
