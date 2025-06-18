@@ -30,8 +30,7 @@ Identificar factores de riesgo y patrones comunes asociados a transacciones frau
 
 ## 📷 Ejemplo del Dashboard
 
-![Dashboard Overview](images/dashboard_overview.png)
-
+![Dashboard Overview](Dashboard.png "Vista general del tablero de fraude")
 ---
 
 ## 📄 Documentación Completa
